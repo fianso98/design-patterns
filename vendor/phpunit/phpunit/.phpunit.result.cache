@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":220:{a:2:{s:7:"defects";a:2:{s:31:"UnitTest::testThatNameIsSofiane";i:5;s:29:"UnitTest::testThatAdapterWork";i:4;}s:5:"times";a:2:{s:31:"UnitTest::testThatNameIsSofiane";d:0.012;s:29:"UnitTest::testThatAdapterWork";d:0.018;}}}
