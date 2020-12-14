@@ -1,8 +1,8 @@
 <?php
 
-namespace Patterns\Adapter\Reader;
-use Patterns\Adapter\Reader\Interfaces\ReaderInterfaceBook ;
-use Patterns\Adapter\Reader\Interfaces\ReaderInterfaceEbook ;
+namespace Patterns\Structural\Adapter\Reader;
+use Patterns\Structural\Adapter\Reader\Interfaces\ReaderInterfaceBook ;
+use Patterns\Structural\Adapter\Reader\Interfaces\ReaderInterfaceEbook ;
 
 class EbookToBook implements ReaderInterfaceEbook{
     private $book;

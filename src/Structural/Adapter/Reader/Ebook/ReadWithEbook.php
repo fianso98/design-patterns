@@ -1,6 +1,6 @@
 <?php 
-namespace Patterns\Adapter\Reader\Ebook ;
-use Patterns\Adapter\Reader\Interfaces\ReaderInterfaceEbook ;
+namespace Patterns\Structural\Adapter\Reader\Ebook ;
+use Patterns\Structural\Adapter\Reader\Interfaces\ReaderInterfaceEbook ;
 
 class ReadWithEbook implements ReaderInterfaceEbook{
     

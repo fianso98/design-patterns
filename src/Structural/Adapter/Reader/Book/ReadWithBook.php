@@ -1,7 +1,7 @@
 <?php 
-namespace Patterns\Adapter\Reader\Book ; 
+namespace Patterns\Structural\Adapter\Reader\Book ; 
 
-use Patterns\Adapter\Reader\Interfaces\ReaderInterfaceBook ;
+use Patterns\Structural\Adapter\Reader\Interfaces\ReaderInterfaceBook ;
 
 class ReadWithBook implements ReaderInterfaceBook{
 

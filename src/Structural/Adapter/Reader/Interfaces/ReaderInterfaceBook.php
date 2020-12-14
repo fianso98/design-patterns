@@ -1,5 +1,5 @@
 <?php 
-namespace Patterns\Adapter\Reader\Interfaces;
+namespace Patterns\Structural\Adapter\Reader\Interfaces;
 
 interface ReaderInterfaceBook{
    public function readBook();
